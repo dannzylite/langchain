@@ -1,3 +1,15 @@
+# Ignore environment files
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# dotenv local overrides
+.env.local
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
